@@ -139,3 +139,4 @@ function startGame() {
   document.getElementById("output").innerHTML = output;
 }
 
+logo.png
