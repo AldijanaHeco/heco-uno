@@ -7,6 +7,8 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <img src="logo.png" alt="Heco Uno Logo" width="150">
+
   <div class="container">
     <img src="logo.png" alt="HECO UNO logo" class="logo" />
     <h1>🎮 HECO UNO</h1>
